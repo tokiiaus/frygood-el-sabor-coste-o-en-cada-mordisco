@@ -1,6 +1,6 @@
 # Frygood Landing
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/tokiiaus/frygood-el-sabor-coste-o-en-cada-mordisco)
 
 A modern, high-performance landing page template built specifically for the Cloudflare ecosystem. This project leverages Cloudflare Workers, Workflows, and Durable Objects to provide a robust, scalable, and type-safe full-stack foundation with a React-based frontend.
 
@@ -78,7 +78,7 @@ export function userRoutes(app: Hono<{ Bindings: Env }>) {
 
 ### Cloudflare Deploy Button
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/tokiiaus/frygood-el-sabor-coste-o-en-cada-mordisco)
 
 ### Manual Deployment
 
